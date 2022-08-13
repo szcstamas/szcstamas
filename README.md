@@ -7,7 +7,7 @@ My name is Tamás Szűcs, I'm a junior frontend developer and product designer l
 - 💛 Javascript (ES6+, OOP)
 - ⚛ React
 - 💌 Bootstrap and MUI
-- <strong><?>/strong> PHP
+- 💜 PHP
 
 ### Links
 
