@@ -10,6 +10,7 @@ My name is Tamás Szűcs, I'm a junior frontend developer and product designer l
 - 💜 PHP
 
 ### Learning
+- 🟡 TypeScript
 - 🟢 NodeJS
 - 🔴 JEST
 - 🎲 Laravel
