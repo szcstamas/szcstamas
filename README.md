@@ -9,7 +9,8 @@ My name is Tamás Szűcs, I'm a junior frontend developer and product designer l
 * Bootstrap and MUI
 * PHP
 
-[![LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)](https://www.linkedin.com/in/tamasszucs-dev/)
+
+[![Build Status](https://travis-ci.org/AOEpeople/Tagging.svg?branch=master)](https://www.linkedin.com/in/tamasszucs-dev/)
 
 <a href="https://www.linkedin.com/in/tamasszucs-dev/" style="background-color:blue;padding:1rem;" ><button>LinkedIn</button></a>
 
