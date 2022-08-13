@@ -1,4 +1,4 @@
-## Hello! I'm glad you here! 👋
+## Hello! 👋
 
 My name is Tamás Szűcs, I'm a junior frontend developer and product designer located in Hungary. I'm a HUGE fan of UI/UX design, but right now I'm focusing on improving my developer skills.
 
