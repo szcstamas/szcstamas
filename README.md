@@ -10,9 +10,8 @@ My name is Tamás Szűcs, I'm a junior frontend developer and product designer l
 - 💜 PHP
 
 ### Links
-
-✉ [LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)
-🖥 [Website](https://szucstamas.com/frontend-development/)
+ - ✉ [LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)
+ - 🖥 [Website](https://szucstamas.com/frontend-development/)
 <!--
 
 Here are some ideas to get you started:
