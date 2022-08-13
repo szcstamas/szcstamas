@@ -1,6 +1,15 @@
 ### Hello there 👋
 
-My name is Tamás Szűcs, I'm a junior frontend developer and product designer located in Hungary. I'm a HUGE fan of UI/UX design, but right now I'm focusing on upgrading my developer skills since I love creating websites and useful applications.
+My name is Tamás Szűcs, I'm a junior frontend developer and product designer located in Hungary. I'm a HUGE fan of UI/UX design, but right now I'm focusing on improving my developer skills.
+
+## Skillset
+* HTML & CSS (SCSS)
+* Javascript (ES6+, OOP)
+* React
+* Bootstrap and MUI
+* PHP
+
+[![LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)](https://www.linkedin.com/in/tamasszucs-dev/)
 
 <a href="https://www.linkedin.com/in/tamasszucs-dev/" style="background-color:blue;padding:1rem;" ><button>LinkedIn</button></a>
 
