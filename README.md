@@ -17,3 +17,5 @@ My name is Tamás Szűcs, I'm a junior frontend developer and product designer l
 ### Links
  - ✉ [LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)
  - 🖥 [Website](https://szucstamas.com/frontend-development/)
+
+Want to get in touch? Send me a digital mail at <a href="mailto:szucstamas@growingmedia.io">szucstamas@growingmedia.io</a>! If you would like to see my projects and see more stuff about me, make sure to check out <a href="https://szucstamas.com/frontend-development/">szucstamas.com</a>.
