@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Tamás Szűcs, I'm a junior frontend developer and product designer located in Hungary. I'm a HUGE fan of UI/UX design, but right now I'm focusing on upgrading my developer skills since I love creating websites and useful applications.
+
+(https://www.linkedin.com/in/tamasszucs-dev/)
 
 <!--
-**sztamas99/sztamas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
