@@ -10,10 +10,10 @@ My name is Tamás Szűcs, I'm a frontend developer and product designer located 
 - 💜 PHP
 
 ### Learning
+- 💚 Vue
 - 🟡 TypeScript
 - 🟢 NodeJS
 - 🔴 JEST
-- 🎲 Laravel
 
 ### Links
  - ✉ [LinkedIn](https://www.linkedin.com/in/tamasszucs-dev/)
