@@ -6,7 +6,7 @@ My name is Tamás Szűcs, I'm a frontend developer and product designer located 
 - 💻 HTML & CSS (SCSS)
 - 💛 Javascript (ES6+, OOP)
 - ⚛ React
-- 💌 Bootstrap and MUI
+- 💌 Bootstrap and MUI (I like Tailwind too)
 - 💜 PHP
 
 ### Learning
